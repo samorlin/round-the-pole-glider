@@ -1,6 +1,6 @@
-# Tethered Electric Aircraft (Design, Build & Test)
+# Tethered Electric Aircraft
 
-**University of Sheffield | Module: ELE101 / AER11002 (Group 56)**  
+
 A complete engineering cycle for a tethered electric aircraft designed for circular flight. The project encompassed aerodynamic sizing, hybrid balsa/composite airframe manufacturing, bench power telemetry analysis, and pitch-stability aerodynamic redesign.
 
 ---
